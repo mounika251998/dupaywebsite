@@ -1,0 +1,123 @@
+.main-container {
+    background: none;
+    background-image: url("./assets/background-image.webp") !important;
+    background-size: cover !important;
+}
+
+* {
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+.phone-image {
+    background-color: #fff;
+}
+
+.text-content {
+    width: 30rem;
+    border-radius: 25px;
+    padding: 25px;
+    background-color: #f9f7fc;
+}
+
+.small-phone {
+    width: 30rem;
+}
+
+.sub-container {
+    width: 30rem;
+    background-color: #f9f7fc;
+    border-radius: 25px;
+}
+
+.second-phone {
+    width: 30rem;
+}
+
+.content-box {
+    font-size: 44px;
+}
+
+.info {
+    height: 28rem;
+    width: 64rem;
+    border-radius: 44px;
+    background-color: #f9f7fc;
+}
+
+.para {
+    font-size: 18px;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.cal {
+    height: 35rem;
+    width: 45rem;
+}
+
+.heading {
+    width: 22%;
+}
+
+.footer-head {
+    width: 24%;
+    height: 50%;
+}
+
+.footer-bg {
+    background-color: #f9f7fc;
+}
+
+.icons {
+    width: 25rem;
+}
+
+.box1 {
+    height: 15rem;
+    width: 24rem;
+    background-color: #f9f7fc;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.bg-color {
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(135deg, #062c79, #841875);
+}
+
+.button {
+    background-image: linear-gradient(135deg, #062c79, #841875);
+    border-radius: 5px;
+}
+
+.color {
+    color: #fff;
+}
+
+.size {
+    height: 9rem;
+    width: 31rem;
+}
+
+.image {
+    height: 55rem;
+    width: 36rem;
+}
+
+.mt {
+    height: 9rem;
+    width: 8rem;
+}
+
+.image2 {
+    height: 22rem;
+    width: 30rem;
+}
+
+.container-width {
+    width: 40%;
+}
